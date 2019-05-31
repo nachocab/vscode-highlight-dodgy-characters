@@ -56,11 +56,11 @@ function updateDecorations(editor: vscode.TextEditor | void) {
 }
 
 export function createDecorations(editor: vscode.TextEditor): vscode.DecorationOptions[] {
-  const badCahrRegExp = new RegExp(config.badCharMatcher, 'gi');
+  const badCharRegExp = new RegExp(config.badCharMatcher, 'gi');
   const text = editor.document.getText();
   const decorations = [];
   let match;
-  while (match = badCahrRegExp.exec(text)) {
+  while (match = badCharRegExp.exec(text)) {
     const startPos = editor.document.positionAt(match.index);
     const endPos = editor.document.positionAt(match.index + match[0].length);
     const hexCharCode = match[0].charCodeAt(0).toString(16);
