@@ -1,7 +1,7 @@
 {
   "name": "highlight-dodgy-characters",
   "displayName": "Highlight Dodgy Characters",
-  "description": "Highlight all non-unicode characters",
+  "description": "Highlight all non-ASCII characters",
   "version": "0.4.3",
   "publisher": "nachocab",
   "engines": {
