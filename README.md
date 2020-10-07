@@ -14,7 +14,7 @@ Inspired from [Highlight Bad Chars](https://github.com/WengerK/vscode-highlight-
 
 You can override the whitelist of characters that will not be highlighted in your workspace or user settings:
 ```
-"highlight-dodgy-characters.whitelist": "´€£¡¿äàáâãåǎąăæçćĉčđďðèéêëěęĝģğĥìíîïıĵķĺļłľñńňöòóôõőøœŕřẞßśŝşšșťţþțüùúûűũųůŵýÿŷźžż"
+"highlight-dodgy-characters.whitelist": "´€£¡¿äàáâãåǎąăāæçćĉčđďðèéêëěęēĝģğĥìíîïīıĵķĺļłľñńňņöòóôõőōøœŕřẞßśŝşšșťţþțüùúûűũūųůŵýÿŷźžż"
 ```
 
 ### Examples

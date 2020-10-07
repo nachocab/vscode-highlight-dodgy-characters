@@ -31,6 +31,6 @@ Things this plugin doesn't highlight (whitelisted by default):
 - Sharp s: ẞß
 - Inverted punctuation: ¡¿
 - Characters with accents: 
-ÄäÀàÁáÂâÃãÅåǍǎĄąĂăÆæÇçĆćĈĉČčĎđĐďðÈèÉéÊêËëĚěĘęĜĝĢģĞğĤĥÌìÍíÎîÏïıĴĵĶķĹĺĻļŁłĽľÑñŃńŇňÖöÒòÓóÔôÕõŐőØøŒœŔŕŘřẞßŚśŜŝŞşŠšȘșŤťŢţÞþȚțÜüÙùÚúÛûŰűŨũŲųŮůŴŵÝýŸÿŶŷŹźŽžŻż
- 
+ÄäÀàÁáÂâÃãÅåǍǎĄąĂăĀāÆæÇçĆćĈĉČčĎđĐďðÈèÉéÊêËëĚěĘęĒēĜĝĢģĞğĤĥÌìÍíÎîÏïĪīıĴĵĶķĹĺĻļŁłĽľÑñŃńŇňŅņÖöÒòÓóÔôÕõŐőŌōØøŒœŔŕŘřẞßŚśŜŝŞşŠšȘșŤťŢţÞþȚțÜüÙùÚúÛûŰűŨũŲųŪūŮůŴŵÝýŸÿŶŷŹźŽžŻż
+
 You can whitelist characters you don't wish to highlight in the settings

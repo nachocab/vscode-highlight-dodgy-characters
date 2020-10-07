@@ -24,7 +24,7 @@
             "string",
             "null"
           ],
-          "default": "´€£¡¿äàáâãåǎąăæçćĉčđďðèéêëěęĝģğĥìíîïıĵķĺļłľñńňöòóôõőøœŕřẞßśŝşšșťţþțüùúûűũųůŵýÿŷźžż",
+          "default": "´€£¡¿äàáâãåǎąăāæçćĉčđďðèéêëěęēĝģğĥìíîïīıĵķĺļłľñńňņöòóôõőōøœŕřẞßśŝşšșťţþțüùúûűũūųůŵýÿŷźžż",
           "description": "Specifies the whitelisted characters that should not be highlighted."
         }
       }
